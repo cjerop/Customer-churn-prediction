@@ -1,2 +1,2 @@
 # Customer-churn-prediction
-A machine learning model for predicting customer churn
+A machine learning model to predict customer churn
