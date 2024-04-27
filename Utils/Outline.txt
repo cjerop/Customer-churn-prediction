@@ -17,7 +17,7 @@
 * Split data into x and y & (train & eval)
 * Encode y labels
 * Create your transformers based on your understanding of the data so far (imputation, scaling)
-4. Modelling & Evaluation 
+4.Modelling & Evaluation  
 * Choose models to train (distance, gradient descent, tree-based +)
 * Train on unbalanced dataset (if applicable)
 * Train on balanced data (if applicable)
